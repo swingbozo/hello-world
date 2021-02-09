@@ -5,3 +5,5 @@ New file MainBranch edit3 line two.
 New file MainBranch edit3 line three.
 New file MainBranch edit3 line four.
 New file MainBranch edit3 line five.
+New file MainBranch edit4 line six.
+
