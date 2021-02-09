@@ -1,0 +1,7 @@
+New file MainBranch addition with line one.
+New file MainBranch addition with line two.
+New file MainBranch edit line one.
+New file MainBranch edit line two.
+New file MainBranch edit line three.
+New file MainBranch edit line four.
+New file MainBranch edit line five.
