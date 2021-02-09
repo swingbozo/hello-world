@@ -1,4 +1,5 @@
 # hello-world
 Hello World
 
-Stuff to ad to the readme file. Stuff!
+Stuff to add to the readme file. Stuff!
+Stuff to add in the master branch.
